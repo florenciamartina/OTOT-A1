@@ -1,0 +1,5 @@
+docker build . -t florenciamartina/docker-web-app .
+docker images
+docker run -p 3000:8080 -d florenciamartina/docker-web-app
+
+
