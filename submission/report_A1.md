@@ -1,4 +1,4 @@
-##A1.1.
+#### A1.1.
 
 - touch Dockerfile to create an empty file called Dockerfile
 - Fill in the Dockerfile with the necessary instructions
@@ -9,7 +9,7 @@
 - Get the container ID with `docker ps` and print the app output with `docker logs <container id>`
 - Go to [http://localhost:3000](http://localhost:3000)
 
-##A1.2.
+#### A1.2.
 
 - Create `nginx.conf` and fill with necessary instruction
 - Fill in the Dockerfile with the necessary instructions
@@ -20,7 +20,7 @@
 - Get the container ID with `docker ps` and print the app output with `docker logs <container id>`
 - Go to [http://localhost](http://localhost)
 
-##A1.3.
+#### A1.3.
 
 - Create `default.conf` and fill with necessary instruction
 - Fill in the Dockerfile with the necessary instructions
